@@ -1,1 +1,1 @@
-Game.earn (Infinty)
+Game.Earn (Infinty)
